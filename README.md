@@ -384,7 +384,7 @@ const emanuel = {
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/108) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
+1. 💪 Opened PR [#109](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/109) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
 2. 💪 Opened PR [#108](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/108) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
 3. 🎉 Merged PR [#107](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/107) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
 4. 💪 Opened PR [#107](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/107) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
