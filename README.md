@@ -384,11 +384,11 @@ const emanuel = {
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#194](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/194) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
-2. 💪 Opened PR [#194](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/194) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
-3. 🎉 Merged PR [#193](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/193) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
-4. 💪 Opened PR [#193](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/193) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
-5. 🎉 Merged PR [#192](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/192) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
+1. 🎉 Merged PR [#196](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/196) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
+2. 💪 Opened PR [#196](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/196) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
+3. 🎉 Merged PR [#195](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/195) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
+4. 💪 Opened PR [#195](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/195) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
+5. 🎉 Merged PR [#194](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/194) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
 <!--END_SECTION:activity-->
 
 <br/>
