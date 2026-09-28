@@ -384,11 +384,11 @@ const emanuel = {
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/emanuelmaraujo/Nooli/pull/4) in [emanuelmaraujo/Nooli](https://github.com/emanuelmaraujo/Nooli)
-2. 💪 Opened PR [#4](https://github.com/emanuelmaraujo/Nooli/pull/4) in [emanuelmaraujo/Nooli](https://github.com/emanuelmaraujo/Nooli)
-3. 💪 Opened PR [#3](https://github.com/emanuelmaraujo/Nooli/pull/3) in [emanuelmaraujo/Nooli](https://github.com/emanuelmaraujo/Nooli)
-4. 🎉 Merged PR [#2](https://github.com/emanuelmaraujo/Nooli/pull/2) in [emanuelmaraujo/Nooli](https://github.com/emanuelmaraujo/Nooli)
-5. 💪 Opened PR [#2](https://github.com/emanuelmaraujo/Nooli/pull/2) in [emanuelmaraujo/Nooli](https://github.com/emanuelmaraujo/Nooli)
+1. 🎉 Merged PR [#5](https://github.com/emanuelmaraujo/Torvya/pull/5) in [emanuelmaraujo/Torvya](https://github.com/emanuelmaraujo/Torvya)
+2. ❌ Closed PR [#3](https://github.com/emanuelmaraujo/Torvya/pull/3) in [emanuelmaraujo/Torvya](https://github.com/emanuelmaraujo/Torvya)
+3. 💪 Opened PR [#5](https://github.com/emanuelmaraujo/Torvya/pull/5) in [emanuelmaraujo/Torvya](https://github.com/emanuelmaraujo/Torvya)
+4. 🎉 Merged PR [#4](https://github.com/emanuelmaraujo/Torvya/pull/4) in [emanuelmaraujo/Torvya](https://github.com/emanuelmaraujo/Torvya)
+5. 💪 Opened PR [#4](https://github.com/emanuelmaraujo/Torvya/pull/4) in [emanuelmaraujo/Torvya](https://github.com/emanuelmaraujo/Torvya)
 <!--END_SECTION:activity-->
 
 <br/>
