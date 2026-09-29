@@ -384,11 +384,11 @@ const emanuel = {
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/emanuelmaraujo/Torvya/pull/5) in [emanuelmaraujo/Torvya](https://github.com/emanuelmaraujo/Torvya)
-2. ❌ Closed PR [#3](https://github.com/emanuelmaraujo/Torvya/pull/3) in [emanuelmaraujo/Torvya](https://github.com/emanuelmaraujo/Torvya)
-3. 💪 Opened PR [#5](https://github.com/emanuelmaraujo/Torvya/pull/5) in [emanuelmaraujo/Torvya](https://github.com/emanuelmaraujo/Torvya)
-4. 🎉 Merged PR [#4](https://github.com/emanuelmaraujo/Torvya/pull/4) in [emanuelmaraujo/Torvya](https://github.com/emanuelmaraujo/Torvya)
-5. 💪 Opened PR [#4](https://github.com/emanuelmaraujo/Torvya/pull/4) in [emanuelmaraujo/Torvya](https://github.com/emanuelmaraujo/Torvya)
+1. 🎉 Merged PR [#7](https://github.com/emanuelmaraujo/Torvya/pull/7) in [emanuelmaraujo/Torvya](https://github.com/emanuelmaraujo/Torvya)
+2. 🎉 Merged PR [#214](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/214) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
+3. 💪 Opened PR [#214](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/214) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
+4. 💪 Opened PR [#7](https://github.com/emanuelmaraujo/Torvya/pull/7) in [emanuelmaraujo/Torvya](https://github.com/emanuelmaraujo/Torvya)
+5. 🎉 Merged PR [#6](https://github.com/emanuelmaraujo/Torvya/pull/6) in [emanuelmaraujo/Torvya](https://github.com/emanuelmaraujo/Torvya)
 <!--END_SECTION:activity-->
 
 <br/>
