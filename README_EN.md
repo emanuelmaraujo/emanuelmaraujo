@@ -384,11 +384,11 @@ const emanuel = {
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#248](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/248) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
-2. 🎉 Merged PR [#247](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/247) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
-3. 💪 Opened PR [#247](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/247) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
-4. 🎉 Merged PR [#246](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/246) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
-5. 💪 Opened PR [#246](https://github.com/emanuelmaraujo/pdv-marcos-kreps/pull/246) in [emanuelmaraujo/pdv-marcos-kreps](https://github.com/emanuelmaraujo/pdv-marcos-kreps)
+1. 🎉 Merged PR [#3](https://github.com/emanuelmaraujo/site_JustGo/pull/3) in [emanuelmaraujo/site_JustGo](https://github.com/emanuelmaraujo/site_JustGo)
+2. 💪 Opened PR [#3](https://github.com/emanuelmaraujo/site_JustGo/pull/3) in [emanuelmaraujo/site_JustGo](https://github.com/emanuelmaraujo/site_JustGo)
+3. 💪 Opened PR [#1824](https://github.com/open-mercato/cezar/pull/1824) in [open-mercato/cezar](https://github.com/open-mercato/cezar)
+4. 🎉 Merged PR [#2](https://github.com/emanuelmaraujo/site_JustGo/pull/2) in [emanuelmaraujo/site_JustGo](https://github.com/emanuelmaraujo/site_JustGo)
+5. 💪 Opened PR [#2](https://github.com/emanuelmaraujo/site_JustGo/pull/2) in [emanuelmaraujo/site_JustGo](https://github.com/emanuelmaraujo/site_JustGo)
 <!--END_SECTION:activity-->
 
 <br/>
