@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Contribution Telemetry
 
 on:
   push:
@@ -10,11 +10,13 @@ on:
 
 jobs:
   generate:
-    name: Generate Snake SVGs
+    name: Generate contribution SVGs
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
@@ -23,6 +25,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Apply telemetry artwork
+        run: python3 .github/scripts/style-contribution-snake.py dist/github-snake-dark.svg dist/contribution-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

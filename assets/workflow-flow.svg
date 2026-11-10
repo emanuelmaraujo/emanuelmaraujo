@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="146" viewBox="0 0 1080 146" role="img" aria-label="GitHub issue, isolated worktree, implementation and tests, then independent review and pull request">
+<defs><linearGradient id="wire"><stop stop-color="#54f8dd"/><stop offset="1" stop-color="#aa8fff"/></linearGradient></defs>
+<style>
+ @media (prefers-reduced-motion: no-preference) {
+  .wave { stroke-dasharray:46 245; animation: flow 5s linear infinite; }
+  @keyframes flow { to { stroke-dashoffset:-582; } }
+ }
+</style>
+<rect x="1" y="1" width="1078" height="144" rx="14" fill="#0b1328" stroke="#3a4a74"/>
+<path d="M74 49H999" stroke="#394d76" stroke-width="2"/>
+<path class="wave" d="M74 49H999" stroke="url(#wire)" stroke-width="4" fill="none"/>
+<g transform="translate(147 49)" text-anchor="middle"><circle r="16" fill="#111e36" stroke="#54f8dd" stroke-width="2"/><text y="5" font-family="monospace" font-size="13" fill="#fff">01</text><text y="55" fill="#edf3ff" font-family="sans-serif" font-size="19" font-weight="700">GITHUB ISSUE</text><text y="79" fill="#b6c6ec" font-family="sans-serif" font-size="15">Acceptance criteria</text></g>
+<g transform="translate(409 49)" text-anchor="middle"><circle r="16" fill="#111e36" stroke="#54f8dd" stroke-width="2"/><text y="5" font-family="monospace" font-size="13" fill="#fff">02</text><text y="55" fill="#edf3ff" font-family="sans-serif" font-size="19" font-weight="700">ISOLATED WORKTREE</text><text y="79" fill="#b6c6ec" font-family="sans-serif" font-size="15">Parallel changes</text></g>
+<g transform="translate(671 49)" text-anchor="middle"><circle r="16" fill="#111e36" stroke="#aa8fff" stroke-width="2"/><text y="5" font-family="monospace" font-size="13" fill="#fff">03</text><text y="55" fill="#edf3ff" font-family="sans-serif" font-size="19" font-weight="700">BUILD + TEST</text><text y="79" fill="#b6c6ec" font-family="sans-serif" font-size="15">Implementation and CI</text></g>
+<g transform="translate(933 49)" text-anchor="middle"><circle r="16" fill="#111e36" stroke="#aa8fff" stroke-width="2"/><text y="5" font-family="monospace" font-size="13" fill="#fff">04</text><text y="55" fill="#edf3ff" font-family="sans-serif" font-size="19" font-weight="700">REVIEW + PR</text><text y="79" fill="#b6c6ec" font-family="sans-serif" font-size="15">Independent review</text></g>
+</svg>

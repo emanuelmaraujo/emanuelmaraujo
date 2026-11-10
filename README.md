@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/emanuel-rx/"><img src="https://img.shields.io/badge/LinkedIn-202049?style=for-the-badge&amp;logoColor=ffffff" alt="LinkedIn" /></a>
 <a href="mailto:emanuel-morais@outlook.com"><img src="https://img.shields.io/badge/Email-142440?style=for-the-badge&amp;logoColor=54f4ce" alt="Email" /></a>
 
-[Agent workflows](#01--agent-orchestration) · [Projects](#02--selected-projects) · [Technical skills](#03--technical-skills) · [Certifications & badges](#04--certifications--badges) · [Português](#em-português)
+[Agent workflows](#01--agent-orchestration) · [Projects](#02--selected-projects) · [Technical skills](#03--technical-skills) · [Certifications & badges](#04--certifications--badges) · [Activity](#06--contribution-telemetry) · [Português](#em-português)
 
 </div>
 
@@ -16,19 +16,19 @@ I coordinate IT operations in the financial cooperative sector and build product
 
 ## 01 / Agent orchestration
 
+<img src="assets/module-agents.svg" width="100%" alt="" />
+
 <img src="https://img.shields.io/badge/ORCHESTRATOR-CEZAR-51F3CC?style=flat-square&amp;labelColor=101a31" alt="Orchestrator: Cezar" /> <img src="https://img.shields.io/badge/RUNNERS-CLAUDE%20CODE%20%2F%20CODEX%20%2F%20OPENCODE-AC91FF?style=flat-square&amp;labelColor=101a31" alt="Runners: Claude Code, Codex and OpenCode" />
 
 I use [Cezar](https://github.com/open-mercato/cezar) to coordinate coding agents across projects. Each task starts with acceptance criteria in GitHub. I assign agents to implementation and independent review, isolate changes in Git worktrees, and use reusable skills to carry project standards across runs.
 
-```text
-$ workflow run
-  GitHub issue → isolated worktree → implementation
-  → tests → independent review → pull request
-```
+<img src="assets/workflow-flow.svg" width="100%" alt="GitHub issue → isolated worktree → implementation and tests → independent review and pull request" />
 
 I also work on AI inside products. In Prumo, AI helps rank offers and draft channel-specific posts, while publishing rules check prices and links against observed data. I track usage and set spending limits so the automation can run within a defined budget.
 
 ## 02 / Selected projects
+
+<img src="assets/module-projects.svg" width="100%" alt="" />
 
 <table>
 <tr>
@@ -59,6 +59,8 @@ Analytics for a competitive gaming community, with automated match data collecti
 
 ## 03 / Technical skills
 
+<img src="assets/module-skills.svg" width="100%" alt="" />
+
 I work across IT operations, security and software delivery in the financial cooperative sector.
 
 | Area | Concepts & practices | Tools & platforms |
@@ -71,6 +73,8 @@ I work across IT operations, security and software delivery in the financial coo
 | **Software & automation** | API integration, scripting, relational databases, CI and deployment | Python, Bash, TypeScript, Next.js, PostgreSQL, Docker |
 
 ## 04 / Certifications & badges
+
+<img src="assets/module-credentials.svg" width="100%" alt="" />
 
 **ISO/IEC 27001 Foundation** · Information security management systems.
 
@@ -107,6 +111,8 @@ I work across IT operations, security and software delivery in the financial coo
 
 ## Em português
 
+<img src="assets/module-pt-br.svg" width="100%" alt="" />
+
 Sou coordenador de TI no cooperativismo financeiro e atuo com infraestrutura, segurança da informação e governança de identidades. Uso o Cezar para orquestrar Claude Code, Codex e OpenCode em fluxos de desenvolvimento com testes e revisão independente. No **Prumo**, aplico IA à curadoria de ofertas e à criação de conteúdo. Na **Torvya**, desenvolvo produtos QR e NFC para conectar negócios aos seus clientes. Sou certificado em **ISO/IEC 27001 Foundation**.
 
 <details>
@@ -120,10 +126,9 @@ Sou coordenador de TI no cooperativismo financeiro e atuo com infraestrutura, se
 5. 💪 Opened PR [#3](https://github.com/emanuelmaraujo/skills/pull/3) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
 <!--END_SECTION:activity-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanuelmaraujo/emanuelmaraujo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emanuelmaraujo/emanuelmaraujo/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/emanuelmaraujo/emanuelmaraujo/output/github-snake.svg" />
-</picture>
-
 </details>
+
+## 06 / Contribution telemetry
+
+<a href="https://github.com/emanuelmaraujo?tab=overview"><img src="https://raw.githubusercontent.com/emanuelmaraujo/emanuelmaraujo/output/contribution-snake.svg" width="100%" alt="GitHub contribution history traced by a neon snake" /></a>
+

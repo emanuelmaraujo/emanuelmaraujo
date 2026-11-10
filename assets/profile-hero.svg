@@ -29,30 +29,31 @@
  }
 </style>
 <defs>
- <linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#070d1c"/><stop offset=".62" stop-color="#101a36"/><stop offset="1" stop-color="#211438"/></linearGradient>
+ <linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#060b1a"/><stop offset=".62" stop-color="#101c3a"/><stop offset="1" stop-color="#26164a"/></linearGradient>
  <linearGradient id="edge"><stop stop-color="#41f6cb"/><stop offset="1" stop-color="#9a76ff"/></linearGradient>
  <radialGradient id="halo"><stop stop-color="#6955fa" stop-opacity=".34"/><stop offset="1" stop-color="#6955fa" stop-opacity="0"/></radialGradient>
  <pattern id="grid" width="27" height="27" patternUnits="userSpaceOnUse"><path d="M27 0H0V27" fill="none" stroke="#9db0ea" stroke-opacity=".095"/></pattern>
  <clipPath id="panel"><rect x="2" y="2" width="1076" height="358" rx="23"/></clipPath>
  <linearGradient id="scan-glow"><stop stop-color="#46f8cc" stop-opacity="0"/><stop offset=".82" stop-color="#46f8cc" stop-opacity=".11"/><stop offset="1" stop-color="#46f8cc" stop-opacity="0"/></linearGradient>
 </defs>
-<rect x="1" y="1" width="1078" height="360" rx="24" fill="url(#bg)" stroke="#334364"/>
+<rect x="1" y="1" width="1078" height="360" rx="24" fill="url(#bg)" stroke="#5667a2"/>
 <rect x="2" y="2" width="1076" height="358" rx="23" fill="url(#grid)"/>
 <g clip-path="url(#panel)"><g class="scan" opacity="0">
  <rect width="150" height="362" fill="url(#scan-glow)"/>
  <path d="M125 69v232" stroke="#5ff7d4" stroke-opacity=".42"/>
 </g></g>
 <circle cx="821" cy="180" r="169" fill="url(#halo)"/>
+<path d="M16 104V72l16-16h30m956 249h32l14-14v-28" fill="none" stroke="#9a76ff" stroke-opacity=".55"/>
 <path d="M28 68h1024M28 302h1024" stroke="#324262"/>
 <path d="M28 68h104m816 0h104M28 302h104m816 0h104" stroke="url(#edge)" stroke-width="2"/>
 <circle cx="42" cy="36" r="4" fill="#42f5cc"/><circle cx="56" cy="36" r="4" fill="#6e87ef"/><circle cx="70" cy="36" r="4" fill="#a880ff"/>
 <g font-family="DejaVu Sans Mono, monospace" font-size="14" letter-spacing="2">
- <text x="92" y="41" fill="#b8c8ee">EMANUEL / OPERATOR PROFILE</text>
+ <text x="92" y="41" fill="#b8c8ee">SYSTEM INTERFACE / PROFILE</text>
  <text x="1034" y="41" fill="#b8c8ee" text-anchor="end">BRASÍLIA · BR</text>
  <text x="62" y="113" fill="#56f7d2">01 / APPLIED AI + SECURITY</text>
  <text class="boot boot-credential" x="64" y="266" fill="#8ff5df">ISO/IEC 27001 FOUNDATION CERTIFIED</text>
  <text x="43" y="336" fill="#bccbed">AGENTS  /  INFRASTRUCTURE  /  GOVERNANCE</text>
- <text x="1034" y="336" fill="#bdacf8" text-anchor="end">HUMAN REVIEW IN THE LOOP</text>
+ <text x="1034" y="336" fill="#bdacf8" text-anchor="end">BUILT WITH HUMAN REVIEW</text>
 </g>
 <text class="boot" x="58" y="181" fill="#f5f7ff" font-family="DejaVu Sans, sans-serif" font-size="60" font-weight="700">Emanuel Araújo</text>
 <text class="boot boot-role" x="62" y="225" fill="#cad7f8" font-family="DejaVu Sans, sans-serif" font-size="22">IT Coordinator · Applied AI &amp; Agent Orchestration</text>
