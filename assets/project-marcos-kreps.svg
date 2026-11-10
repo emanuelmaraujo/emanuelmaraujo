@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="127" viewBox="0 0 520 127" role="img" aria-label="MARCOS KREP’S">
+<style>
+ @media (prefers-reduced-motion: no-preference) {
+  .trace { stroke-dasharray:11 7; animation: signal 4s linear infinite; }
+  .status { animation: breathe 3s ease-in-out infinite; animation-delay:-0s; }
+  @keyframes signal { to { stroke-dashoffset:-36; } }
+  @keyframes breathe { 50% { opacity:.35; } }
+ }
+</style>
+<defs><linearGradient id="panel"><stop stop-color="#0a1124"/><stop offset="1" stop-color="#1c1c38"/></linearGradient><pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M16 0H0V16" fill="none" stroke="#ffb47d" stroke-opacity=".12"/></pattern></defs>
+<rect x="1" y="1" width="518" height="125" rx="16" fill="url(#panel)" stroke="#4c5481"/>
+<rect x="376" y="8" width="130" height="111" rx="10" fill="url(#grid)"/>
+<path d="M23 102h104m331-77h38v26m0 49h-38" fill="none" stroke="#ffb47d" stroke-opacity=".55"/>
+<path class="trace" d="M25 102h91" stroke="#ffb47d" stroke-width="2" fill="none"/><circle class="status" cx="480" cy="87" r="3.5" fill="#ffb47d"/>
+<text x="24" y="31" fill="#ffb47d" font-family="DejaVu Sans Mono,monospace" font-size="14" letter-spacing="1.5">05 / POINT OF SALE · RESTAURANT</text>
+<text x="23" y="77" fill="#f1f5ff" font-family="DejaVu Sans,sans-serif" font-size="34" font-weight="700">MARCOS KREP’S</text>
+<path d="M9 5h34v38l-6-4-5 4-6-4-6 4-5-4-6 4zM16 15h20m-20 8h20m-20 8h13" transform="translate(416 41)" fill="none" stroke="#ffb47d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

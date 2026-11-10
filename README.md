@@ -55,6 +55,13 @@ Public library of agent workflows for web design, accessibility, performance, vi
 Analytics for a competitive gaming community, with automated match data collection, rankings and player insights.
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/project-marcos-kreps.svg" width="100%" alt="Marcos Krep’s point of sale and ordering platform" />
+<br/><br/>
+Restaurant point-of-sale project focused on order management.
+</td>
+</tr>
 </table>
 
 ## 03 / Technical skills
