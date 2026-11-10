@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/emanuel-rx/"><img src="https://img.shields.io/badge/LinkedIn-202049?style=for-the-badge&amp;logoColor=ffffff" alt="LinkedIn" /></a>
 <a href="mailto:emanuel-morais@outlook.com"><img src="https://img.shields.io/badge/Email-142440?style=for-the-badge&amp;logoColor=54f4ce" alt="Email" /></a>
 
-[Agent workflows](#01--agent-orchestration) · [Projects](#02--selected-projects) · [IT & security](#03--it-coordination--cybersecurity) · [Português](#em-português)
+[Agent workflows](#01--agent-orchestration) · [Projects](#02--selected-projects) · [Technical skills](#03--technical-skills) · [Certifications & badges](#04--certifications--badges) · [Português](#em-português)
 
 </div>
 
@@ -57,24 +57,46 @@ Analytics for a competitive gaming community, with automated match data collecti
 </tr>
 </table>
 
-## 03 / IT coordination & cybersecurity
+## 03 / Technical skills
 
-| Area | What I work on |
-| --- | --- |
-| **Infrastructure & IT operations** | Service prioritization, branch connectivity, Windows Server, Linux, virtualization and monitoring. |
-| **Identity & access governance** | Microsoft 365, Entra ID, Active Directory, Conditional Access and access workflows with SharePoint and Power Automate. |
-| **Security & resilience** | Endpoint and network protection, security awareness, risk management and business continuity. |
+I work across IT operations, security and software delivery in the financial cooperative sector.
 
-## 04 / Credentials & education
+| Area | Concepts & practices | Tools & platforms |
+| --- | --- | --- |
+| **Applied AI & agent orchestration** | Multi-agent workflows, task scoping, isolated Git worktrees, independent review, model usage and cost controls | Cezar, Claude Code, Codex, OpenCode, GitHub Actions |
+| **Identity & Microsoft 365** | IAM and identity governance, MFA, Conditional Access, data loss prevention and access approval workflows | Microsoft Entra ID, Active Directory, Microsoft 365, Microsoft Defender for Office 365, SharePoint, Power Automate |
+| **Defensive security** | Log analysis, SIEM and endpoint protection, incident response, vulnerability management and system hardening | Wazuh, Graylog, Nessus, Wireshark |
+| **Infrastructure & service operations** | Network segmentation, site-to-site VPN, SD-WAN, virtualization, monitoring and IT service prioritization | FortiGate, Windows Server, Linux, Hyper-V, Zabbix, GLPI |
+| **Security governance & resilience** | ISMS, ISO/IEC 27001 and 27002, NIST CSF, risk management, security awareness and business continuity | CISO Assistant, Eramba |
+| **Software & automation** | API integration, scripting, relational databases, CI and deployment | Python, Bash, TypeScript, Next.js, PostgreSQL, Docker |
 
-- **ISO/IEC 27001 Foundation** · Information security management systems.
-- **Fortinet Certified Fundamentals in Cybersecurity** · Fortinet.
-- **BSc in Computer Science** · Postgraduate studies in Information Security in progress.
+## 04 / Certifications & badges
+
+**ISO/IEC 27001 Foundation** · Information security management systems.
+
+<table>
+<tr>
+<td align="center" width="33%"><a href="https://www.credly.com/badges/a692655c-e6e6-4f24-90cf-905ea99793b9/public_url"><img src="https://raw.githubusercontent.com/emanuelmaraujo/portifolio/main/public/badges/fortinet-certified-fundamentals-cybersecurity.png" width="90" height="90" alt="Fortinet Certified Fundamentals Cybersecurity" /></a><br/><a href="https://www.credly.com/badges/a692655c-e6e6-4f24-90cf-905ea99793b9/public_url">Fortinet FCF Cybersecurity</a></td>
+<td align="center" width="33%"><a href="https://www.credly.com/badges/e4039c04-39c5-47dd-a1fb-47d77e7961ec/public_url"><img src="https://raw.githubusercontent.com/emanuelmaraujo/portifolio/main/public/badges/endpoint-security.png" width="90" height="90" alt="Endpoint Security" /></a><br/><a href="https://www.credly.com/badges/e4039c04-39c5-47dd-a1fb-47d77e7961ec/public_url">Cisco Endpoint Security</a></td>
+<td align="center" width="33%"><a href="https://www.credly.com/badges/59101be6-3e45-4d6e-a48f-358d95ffd538/public_url"><img src="https://raw.githubusercontent.com/emanuelmaraujo/portifolio/main/public/badges/ccna-introduction-to-networks.png" width="90" height="90" alt="CCNA: Introduction to Networks" /></a><br/><a href="https://www.credly.com/badges/59101be6-3e45-4d6e-a48f-358d95ffd538/public_url">Cisco Introduction to Networks</a></td>
+</tr>
+</table>
+
+<details>
+<summary>Additional digital badges</summary>
+
+- [Getting Started in Cybersecurity 2.0](https://www.credly.com/badges/85419a43-27a7-4edf-975e-a8cd91cd1d72/public_url)
+- [Introduction to the Threat Landscape 2.0](https://www.credly.com/badges/fc4fd540-6521-432b-adce-d1ce2ed870ee/public_url)
+- [ISC2 Candidate](https://www.credly.com/badges/d94e4db4-509a-4adb-8b82-5132c9ca4409/public_url)
+- [Networking Academy Learn-A-Thon 2024](https://www.credly.com/badges/68a765a6-449a-40cc-a79d-bab2e626f4d2/public_url)
+
+</details>
+
+**Education** · BSc in Computer Science and postgraduate studies in Information Security.
 
 <details>
 <summary>Additional training</summary>
 
-- CCNA: Introduction to Networks and Endpoint Security · Cisco Networking Academy
 - Student SOC Program Foundations · Microsoft
 - Santander Cybersecurity Bootcamp · DIO and Santander
 - Hackers do Bem · Leveling, Basic and Fundamental tracks
