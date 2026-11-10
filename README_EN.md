@@ -384,11 +384,11 @@ const emanuel = {
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/emanuelmaraujo/skills/pull/3) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
-2. 💪 Opened PR [#4](https://github.com/emanuelmaraujo/skills/pull/4) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
-3. 🎉 Merged PR [#2](https://github.com/emanuelmaraujo/skills/pull/2) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
-4. 💪 Opened PR [#3](https://github.com/emanuelmaraujo/skills/pull/3) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
-5. 💪 Opened PR [#2](https://github.com/emanuelmaraujo/skills/pull/2) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
+1. 🎉 Merged PR [#4](https://github.com/emanuelmaraujo/skills/pull/4) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
+2. 🎉 Merged PR [#3](https://github.com/emanuelmaraujo/skills/pull/3) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
+3. 💪 Opened PR [#4](https://github.com/emanuelmaraujo/skills/pull/4) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
+4. 🎉 Merged PR [#2](https://github.com/emanuelmaraujo/skills/pull/2) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
+5. 💪 Opened PR [#3](https://github.com/emanuelmaraujo/skills/pull/3) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
 <!--END_SECTION:activity-->
 
 <br/>
