@@ -1,39 +1,71 @@
 <div align="center">
-  <h1>Emanuel Araújo</h1>
-  <p><strong>IT Coordinator · Applied AI &amp; Agent Orchestration · Cybersecurity</strong></p>
-  <p>Brasília, Brazil · ISO/IEC 27001 Foundation certified</p>
-  <p>
-    <a href="https://emanuelmaraujo.github.io/portifolio/">Portfolio</a> ·
-    <a href="https://www.linkedin.com/in/emanuel-rx/">LinkedIn</a> ·
-    <a href="mailto:emanuel-morais@outlook.com">Email</a> ·
-    <a href="#em-português">Português</a>
-  </p>
+
+<img src="assets/profile-hero.svg" width="100%" alt="Emanuel Araújo — IT Coordinator, Applied AI, Agent Orchestration and Cybersecurity. ISO/IEC 27001 Foundation certified." />
+
+<br/>
+
+<a href="https://emanuelmaraujo.github.io/portifolio/"><img src="https://img.shields.io/badge/Portfolio-142440?style=for-the-badge&amp;logo=githubpages&amp;logoColor=54f4ce" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/emanuel-rx/"><img src="https://img.shields.io/badge/LinkedIn-202049?style=for-the-badge&amp;logoColor=ffffff" alt="LinkedIn" /></a>
+<a href="mailto:emanuel-morais@outlook.com"><img src="https://img.shields.io/badge/Email-142440?style=for-the-badge&amp;logoColor=54f4ce" alt="Email" /></a>
+
+[Agent workflows](#01--agent-orchestration) · [Projects](#02--selected-projects) · [IT & security](#03--it-coordination--cybersecurity) · [Português](#em-português)
+
 </div>
 
 I coordinate IT operations in the financial cooperative sector and build products that apply AI to real workflows. My work spans infrastructure, identity and security governance, from keeping services reliable to designing automations that teams can test, review and operate.
 
-## Applied AI & agent orchestration
+## 01 / Agent orchestration
 
-I use [Cezar](https://github.com/open-mercato/cezar) to coordinate Claude Code, Codex and OpenCode across my projects. A typical workflow starts with a GitHub issue and clear acceptance criteria, runs implementation in an isolated Git worktree, then moves through tests, independent review and a pull request. I assign agents to different stages and use reusable skills to carry project standards across runs.
+<img src="https://img.shields.io/badge/ORCHESTRATOR-CEZAR-51F3CC?style=flat-square&amp;labelColor=101a31" alt="Orchestrator: Cezar" /> <img src="https://img.shields.io/badge/RUNNERS-CLAUDE%20CODE%20%2F%20CODEX%20%2F%20OPENCODE-AC91FF?style=flat-square&amp;labelColor=101a31" alt="Runners: Claude Code, Codex and OpenCode" />
+
+I use [Cezar](https://github.com/open-mercato/cezar) to coordinate coding agents across projects. Each task starts with acceptance criteria in GitHub. I assign agents to implementation and independent review, isolate changes in Git worktrees, and use reusable skills to carry project standards across runs.
+
+```text
+$ workflow run
+  GitHub issue → isolated worktree → implementation
+  → tests → independent review → pull request
+```
 
 I also work on AI inside products. In Prumo, AI helps rank offers and draft channel-specific posts, while publishing rules check prices and links against observed data. I track usage and set spending limits so the automation can run within a defined budget.
 
-## Selected projects
+## 02 / Selected projects
 
-| Project | What I work on |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://t.me/prumo_tudo"><img src="assets/project-prumo.svg" width="100%" alt="Prumo on Telegram" /></a>
+<br/><br/>
+Brazilian deals and price-tracking platform. I build the workflows that collect marketplace offers, validate discounts against price history, and publish deals and coupons to Telegram and WhatsApp.
+</td>
+<td width="50%" valign="top">
+<a href="https://torvya.app.br/"><img src="assets/project-torvya.svg" width="100%" alt="Torvya website" /></a>
+<br/><br/>
+QR and NFC products that help small businesses collect Google reviews and share digital destinations. I work on the physical product, onboarding and the web platform that manages each tag.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/emanuelmaraujo/skills"><img src="assets/project-skills.svg" width="100%" alt="Web Experience Agent Skills repository" /></a>
+<br/><br/>
+Public library of agent workflows for web design, accessibility, performance, visual QA, test-driven development and independent review.
+</td>
+<td width="50%" valign="top">
+<a href="https://www.riftscore.com.br/"><img src="assets/project-riftscore.svg" width="100%" alt="RiftScore website" /></a>
+<br/><br/>
+Analytics for a competitive gaming community, with automated match data collection, rankings and player insights.
+</td>
+</tr>
+</table>
+
+## 03 / IT coordination & cybersecurity
+
+| Area | What I work on |
 | --- | --- |
-| [**Prumo**](https://t.me/prumo_tudo) | Brazilian deals and price-tracking platform. I build workflows that collect marketplace offers, evaluate discounts using price history and publish verified deals and coupons to Telegram and WhatsApp. |
-| [**Torvya**](https://torvya.app.br/) | QR and NFC products that help small businesses collect Google reviews and share digital destinations. I work across the physical product, onboarding and the web platform that manages each tag's destination. |
-| [**Web Experience Agent Skills**](https://github.com/emanuelmaraujo/skills) | Public library of reusable workflows for AI coding agents, covering web design, accessibility, performance, visual QA, test-driven development and independent review. |
-| [**RiftScore**](https://www.riftscore.com.br/) | Full-stack analytics project for a competitive gaming community, with automated match data collection, rankings and player insights. |
+| **Infrastructure & IT operations** | Service prioritization, branch connectivity, Windows Server, Linux, virtualization and monitoring. |
+| **Identity & access governance** | Microsoft 365, Entra ID, Active Directory, Conditional Access and access workflows with SharePoint and Power Automate. |
+| **Security & resilience** | Endpoint and network protection, security awareness, risk management and business continuity. |
 
-## IT coordination & cybersecurity
-
-- **IT operations and infrastructure** · Service prioritization, branch connectivity, Windows Server, Linux, virtualization and monitoring.
-- **Identity and access governance** · Microsoft 365, Microsoft Entra ID, Active Directory, Conditional Access and access workflows with SharePoint and Power Automate.
-- **Security and resilience** · Endpoint and network protection, security awareness, risk management and business continuity.
-
-## Credentials & education
+## 04 / Credentials & education
 
 - **ISO/IEC 27001 Foundation** · Information security management systems.
 - **Fortinet Certified Fundamentals in Cybersecurity** · Fortinet.
