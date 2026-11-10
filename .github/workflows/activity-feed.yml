@@ -13,25 +13,12 @@ jobs:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Update README.md
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           TARGET_FILE: README.md
-          COMMIT_MSG: "⚡ Update GitHub Activity Feed (pt-BR)"
-          MAX_LINES: 5
-
-      - name: Git Pull
-        run: git pull origin main
-        continue-on-error: true
-        
-      - name: Update README_EN.md
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          TARGET_FILE: README_EN.md
-          COMMIT_MSG: "⚡ Update GitHub Activity Feed (en-US)"
+          COMMIT_MSG: "⚡ Update GitHub Activity Feed"
           MAX_LINES: 5
