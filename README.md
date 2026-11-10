@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/profile-hero.svg" width="100%" alt="Emanuel Araújo — IT Coordinator, Applied AI, Agent Orchestration and Cybersecurity. ISO/IEC 27001 Foundation certified." />
+<img src="assets/profile-hero.svg" width="100%" alt="Emanuel Araújo — AI Engineering, Agent Orchestration, Cybersecurity, IT Leadership and Product Development." />
 
 <br/>
 
-<a href="https://emanuelmaraujo.github.io/portifolio/"><img src="https://img.shields.io/badge/Portfolio-142440?style=for-the-badge&amp;logo=githubpages&amp;logoColor=54f4ce" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/emanuel-rx/"><img src="https://img.shields.io/badge/LinkedIn-202049?style=for-the-badge&amp;logoColor=ffffff" alt="LinkedIn" /></a>
-<a href="mailto:emanuel-morais@outlook.com"><img src="https://img.shields.io/badge/Email-142440?style=for-the-badge&amp;logoColor=54f4ce" alt="Email" /></a>
+<p><strong>AI Engineering · Agent Orchestration · Cybersecurity · IT Leadership · Product Development</strong></p>
+
+[Portfolio](https://emanuelmaraujo.github.io/portifolio/) · [LinkedIn](https://www.linkedin.com/in/emanuel-rx/) · [Email](mailto:emanuel-morais@outlook.com)
 
 [Agent workflows](#01--agent-orchestration) · [Projects](#02--selected-projects) · [Technical skills](#03--technical-skills) · [Certifications & badges](#04--certifications--badges) · [Activity](#06--contribution-telemetry) · [Português](#em-português)
 
@@ -18,9 +18,7 @@ I coordinate IT operations in the financial cooperative sector and build product
 
 <img src="assets/module-agents.svg" width="100%" alt="" />
 
-<img src="https://img.shields.io/badge/ORCHESTRATOR-CEZAR-51F3CC?style=flat-square&amp;labelColor=101a31" alt="Orchestrator: Cezar" /> <img src="https://img.shields.io/badge/RUNNERS-CLAUDE%20CODE%20%2F%20CODEX%20%2F%20OPENCODE-AC91FF?style=flat-square&amp;labelColor=101a31" alt="Runners: Claude Code, Codex and OpenCode" />
-
-I use [Cezar](https://github.com/open-mercato/cezar) to coordinate coding agents across projects. Each task starts with acceptance criteria in GitHub. I assign agents to implementation and independent review, isolate changes in Git worktrees, and use reusable skills to carry project standards across runs.
+I use [Cezar](https://github.com/open-mercato/cezar) to coordinate Claude Code, OpenAI Codex and OpenCode across projects. Each task starts with acceptance criteria in GitHub. I assign agents to implementation and independent review, isolate changes in Git worktrees, and use [Agent Skills](https://github.com/emanuelmaraujo/skills) to carry project standards across runs.
 
 <img src="assets/workflow-flow.svg" width="100%" alt="GitHub issue → isolated worktree → implementation and tests → independent review and pull request" />
 
@@ -40,7 +38,7 @@ Brazilian deals and price-tracking platform. I build the workflows that collect 
 <td width="50%" valign="top">
 <a href="https://torvya.app.br/"><img src="assets/project-torvya.svg" width="100%" alt="Torvya website" /></a>
 <br/><br/>
-QR and NFC products that help small businesses collect Google reviews and share digital destinations. I work on the physical product, onboarding and the web platform that manages each tag.
+QR and NFC products that help small businesses collect Google reviews and share digital destinations. I work across hardware, onboarding and the Next.js and Supabase platform. A Cloudflare Worker resolves published redirects.
 </td>
 </tr>
 <tr>
@@ -59,7 +57,7 @@ Analytics for a competitive gaming community, with automated match data collecti
 <td width="50%" valign="top">
 <img src="assets/project-marcos-kreps.svg" width="100%" alt="Marcos Krep’s point of sale and ordering platform" />
 <br/><br/>
-Restaurant point-of-sale project focused on order management.
+A mobile-first point of sale built with Next.js, TypeScript and Supabase. It connects checkout, Pix payments, delivery and store operations.
 </td>
 </tr>
 </table>
@@ -103,7 +101,7 @@ I work across IT operations, security and software delivery in the financial coo
 
 </details>
 
-**Education** · BSc in Computer Science and postgraduate studies in Information Security.
+**Education** · BSc in Computer Science and complementary studies in Information Security.
 
 <details>
 <summary>Additional training</summary>
@@ -120,7 +118,7 @@ I work across IT operations, security and software delivery in the financial coo
 
 <img src="assets/module-pt-br.svg" width="100%" alt="" />
 
-Sou coordenador de TI no cooperativismo financeiro e atuo com infraestrutura, segurança da informação e governança de identidades. Uso o Cezar para orquestrar Claude Code, Codex e OpenCode em fluxos de desenvolvimento com testes e revisão independente. No **Prumo**, aplico IA à curadoria de ofertas e à criação de conteúdo. Na **Torvya**, desenvolvo produtos QR e NFC para conectar negócios aos seus clientes. Sou certificado em **ISO/IEC 27001 Foundation**.
+Sou coordenador de TI no cooperativismo financeiro e atuo com infraestrutura, segurança da informação e governança de identidades. Uso o Cezar para orquestrar Claude Code, Codex e OpenCode em fluxos de desenvolvimento com testes e revisão independente. No **Prumo**, aplico IA à curadoria de ofertas e à criação de conteúdo. Na **Torvya**, desenvolvo produtos QR e NFC para conectar negócios aos seus clientes. No **Marcos Krep’s**, desenvolvo fluxos de pedidos, checkout e operação de loja. Sou bacharel em Ciência da Computação, tenho formação complementar em Segurança da Informação e certificação **ISO/IEC 27001 Foundation**.
 
 <details>
 <summary>Recent public GitHub activity</summary>
