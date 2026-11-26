@@ -126,11 +126,11 @@ Sou coordenador de TI no cooperativismo financeiro e atuo com infraestrutura, se
 <summary>Recent public GitHub activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/emanuelmaraujo/portifolio/pull/13) in [emanuelmaraujo/portifolio](https://github.com/emanuelmaraujo/portifolio)
-2. 💪 Opened PR [#13](https://github.com/emanuelmaraujo/portifolio/pull/13) in [emanuelmaraujo/portifolio](https://github.com/emanuelmaraujo/portifolio)
-3. 🎉 Merged PR [#12](https://github.com/emanuelmaraujo/skills/pull/12) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
-4. 🎉 Merged PR [#11](https://github.com/emanuelmaraujo/skills/pull/11) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
-5. 💪 Opened PR [#12](https://github.com/emanuelmaraujo/skills/pull/12) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
+1. 🎉 Merged PR [#13](https://github.com/emanuelmaraujo/skills/pull/13) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
+2. 💪 Opened PR [#13](https://github.com/emanuelmaraujo/skills/pull/13) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
+3. 🎉 Merged PR [#13](https://github.com/emanuelmaraujo/portifolio/pull/13) in [emanuelmaraujo/portifolio](https://github.com/emanuelmaraujo/portifolio)
+4. 💪 Opened PR [#13](https://github.com/emanuelmaraujo/portifolio/pull/13) in [emanuelmaraujo/portifolio](https://github.com/emanuelmaraujo/portifolio)
+5. 🎉 Merged PR [#12](https://github.com/emanuelmaraujo/skills/pull/12) in [emanuelmaraujo/skills](https://github.com/emanuelmaraujo/skills)
 <!--END_SECTION:activity-->
 
 </details>
